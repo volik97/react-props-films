@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/43q6cdvle7vkgq7w?svg=true)](https://ci.appveyor.com/project/volik97/react-props-films)
