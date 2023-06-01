@@ -1,4 +1,4 @@
-import Stars from "./components/stars";
+import Stars from "./components/Stars";
 import "./App.css";
 
 function App() {
